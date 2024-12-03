@@ -59,7 +59,6 @@ export default function App() {
     }
     return null;
   }
-  console.log(squares);
   return (
     <>
       {isFlag ? (
